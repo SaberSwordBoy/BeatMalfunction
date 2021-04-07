@@ -1,0 +1,8 @@
+  3/30/2021 8:37:22 AM: Starting composition “footagecrate-4k-looping-network-tech-background-blue-1”.
+
+  Output To: C:\Users\Owner\Documents\Python 3.9\Pygame\Glitched\images\scenery\animated\loop-bg\loop-bg[####].jpg    3/30/2021 8:37:43 AM: Finished composition “footagecrate-4k-looping-network-tech-background-blue-1”.
+
+
+  Total Time Elapsed: 21 Seconds
+Log closed on 3/30/2021 at 8:37:43 AM
+

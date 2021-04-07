@@ -1,0 +1,8 @@
+  3/31/2021 7:26:20 PM: Starting composition “footagecrate-holographic-hud-greeble-3a-full”.
+
+  Output To: C:\Users\Owner\Documents\Python 3.9\Pygame\Glitched\images\scenery\animated\greeble3\footagecrate-holographic-hud-greeble-3a-full_[####].png    3/31/2021 7:26:33 PM: Finished composition “footagecrate-holographic-hud-greeble-3a-full”.
+
+
+  Total Time Elapsed: 13 Seconds
+Log closed on 3/31/2021 at 7:26:33 PM
+

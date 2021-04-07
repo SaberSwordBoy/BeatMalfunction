@@ -1,0 +1,8 @@
+  3/30/2021 9:48:24 AM: Starting composition “FootageCrate-Magic_Sakura_Power_1”.
+
+  Output To: C:\Users\Owner\Documents\Python 3.9\Pygame\Glitched\images\circles\magic-ball-purple\magic-ball-purple{####]_[####].png    3/30/2021 9:48:28 AM: Finished composition “FootageCrate-Magic_Sakura_Power_1”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 3/30/2021 at 9:48:28 AM
+
